@@ -1,0 +1,56 @@
+﻿  Dashboard.cpp
+C:\Users\Lenovo\source\repos\bookstore\bookstore\SearchAndEdit.h(538,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Lenovo\source\repos\bookstore\bookstore\SearchAndEdit.h(558,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Lenovo\source\repos\bookstore\bookstore\SearchAndEdit.h(582,22): warning C4101: 'e': unreferenced local variable
+C:\Users\Lenovo\source\repos\bookstore\bookstore\SearchAndEdit.h(597,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Lenovo\source\repos\bookstore\bookstore\SearchAndEdit.h(613,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Lenovo\source\repos\bookstore\bookstore\InventoryDetails.h(257,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Lenovo\source\repos\bookstore\bookstore\CustomerDetails.h(244,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Lenovo\source\repos\bookstore\bookstore\TrackOrder.h(391,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Lenovo\source\repos\bookstore\bookstore\TrackOrder.h(405,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Lenovo\source\repos\bookstore\bookstore\TrackOrder.h(422,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Lenovo\source\repos\bookstore\bookstore\TrackOrder.h(442,22): warning C4101: 'e': unreferenced local variable
+C:\Users\Lenovo\source\repos\bookstore\bookstore\TrackOrder.h(452,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Lenovo\source\repos\bookstore\bookstore\EmployeeDetails.h(572,22): warning C4101: 'e': unreferenced local variable
+C:\Users\Lenovo\source\repos\bookstore\bookstore\EmployeeDetails.h(586,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Lenovo\source\repos\bookstore\bookstore\EmployeeDetails.h(637,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Lenovo\source\repos\bookstore\bookstore\EmployeeDetails.h(652,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Lenovo\source\repos\bookstore\bookstore\EmployeeDetails.h(671,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Lenovo\source\repos\bookstore\bookstore\LibraryEvents.h(423,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Lenovo\source\repos\bookstore\bookstore\LibraryEvents.h(461,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Lenovo\source\repos\bookstore\bookstore\CartCombined.h(484,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Lenovo\source\repos\bookstore\bookstore\CartCombined.h(516,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Lenovo\source\repos\bookstore\bookstore\CartCombined.h(527,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Lenovo\source\repos\bookstore\bookstore\CartCombined.h(561,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Lenovo\source\repos\bookstore\bookstore\CartCombined.h(654,20): warning C4101: 'e': unreferenced local variable
+  Login.cpp
+C:\Users\Lenovo\source\repos\bookstore\bookstore\user.h(54,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Lenovo\source\repos\bookstore\bookstore\SearchAndEdit.h(538,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Lenovo\source\repos\bookstore\bookstore\SearchAndEdit.h(558,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Lenovo\source\repos\bookstore\bookstore\SearchAndEdit.h(582,22): warning C4101: 'e': unreferenced local variable
+C:\Users\Lenovo\source\repos\bookstore\bookstore\SearchAndEdit.h(597,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Lenovo\source\repos\bookstore\bookstore\SearchAndEdit.h(613,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Lenovo\source\repos\bookstore\bookstore\InventoryDetails.h(257,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Lenovo\source\repos\bookstore\bookstore\CustomerDetails.h(244,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Lenovo\source\repos\bookstore\bookstore\TrackOrder.h(391,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Lenovo\source\repos\bookstore\bookstore\TrackOrder.h(405,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Lenovo\source\repos\bookstore\bookstore\TrackOrder.h(422,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Lenovo\source\repos\bookstore\bookstore\TrackOrder.h(442,22): warning C4101: 'e': unreferenced local variable
+C:\Users\Lenovo\source\repos\bookstore\bookstore\TrackOrder.h(452,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Lenovo\source\repos\bookstore\bookstore\EmployeeDetails.h(572,22): warning C4101: 'e': unreferenced local variable
+C:\Users\Lenovo\source\repos\bookstore\bookstore\EmployeeDetails.h(586,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Lenovo\source\repos\bookstore\bookstore\EmployeeDetails.h(637,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Lenovo\source\repos\bookstore\bookstore\EmployeeDetails.h(652,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Lenovo\source\repos\bookstore\bookstore\EmployeeDetails.h(671,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Lenovo\source\repos\bookstore\bookstore\LibraryEvents.h(423,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Lenovo\source\repos\bookstore\bookstore\LibraryEvents.h(461,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Lenovo\source\repos\bookstore\bookstore\CartCombined.h(484,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Lenovo\source\repos\bookstore\bookstore\CartCombined.h(516,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Lenovo\source\repos\bookstore\bookstore\CartCombined.h(527,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Lenovo\source\repos\bookstore\bookstore\CartCombined.h(561,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Lenovo\source\repos\bookstore\bookstore\CartCombined.h(654,20): warning C4101: 'e': unreferenced local variable
+  Notifications.cpp
+  PlaceOrder.cpp
+  Generating Code...
+  AddBook.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  bookstore.vcxproj -> C:\Users\Lenovo\source\repos\bookstore\Debug\bookstore.exe

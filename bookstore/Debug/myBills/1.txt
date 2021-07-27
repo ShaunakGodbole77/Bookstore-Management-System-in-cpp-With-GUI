@@ -1,0 +1,6 @@
+ID	NAME	PRICE	QTY	TOTAL
+ 
+2	Harry Pott	664	1	664
+4	Harry Pott	543	2	1086
+
+Total Bill is : 	1750

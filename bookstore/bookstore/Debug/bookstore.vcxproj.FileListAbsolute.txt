@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\bookstore\bookstore\Debug\bookstore.AddBook.resources
+C:\Users\Lenovo\source\repos\bookstore\bookstore\Debug\bookstore.Cart.resources
+C:\Users\Lenovo\source\repos\bookstore\bookstore\Debug\bookstore.CartCombined.resources
+C:\Users\Lenovo\source\repos\bookstore\bookstore\Debug\bookstore.CustomerDetails.resources
+C:\Users\Lenovo\source\repos\bookstore\bookstore\Debug\bookstore.Dashboard.resources
+C:\Users\Lenovo\source\repos\bookstore\bookstore\Debug\bookstore.EmployeeDetails.resources
+C:\Users\Lenovo\source\repos\bookstore\bookstore\Debug\bookstore.InventoryDetails.resources
+C:\Users\Lenovo\source\repos\bookstore\bookstore\Debug\bookstore.LibraryEvents.resources
+C:\Users\Lenovo\source\repos\bookstore\bookstore\Debug\bookstore.Login.resources
+C:\Users\Lenovo\source\repos\bookstore\bookstore\Debug\bookstore.OtherDetails.resources
+C:\Users\Lenovo\source\repos\bookstore\bookstore\Debug\bookstore.PlaceOrder.resources
+C:\Users\Lenovo\source\repos\bookstore\bookstore\Debug\bookstore.RequestFunds.resources
+C:\Users\Lenovo\source\repos\bookstore\bookstore\Debug\bookstore.SearchAndEdit.resources
+C:\Users\Lenovo\source\repos\bookstore\bookstore\Debug\bookstore.TrackOrder.resources
+C:\Users\Lenovo\source\repos\bookstore\bookstore\Debug\bookstore.vcxproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\bookstore\bookstore\Debug\bookstore.vcxproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\bookstore\bookstore\Debug\bookstore.FinalDataEntry.resources

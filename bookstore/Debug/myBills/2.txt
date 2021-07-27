@@ -1,0 +1,6 @@
+ID	NAME	PRICE	QTY	TOTAL
+ 
+9	"Unauthori	248	1	248
+12	The Ultima	332	1	332
+
+Total Bill is : 	580
